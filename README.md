@@ -1,4 +1,4 @@
-#phpRed
+
 #### php redis 发布订阅
 
 - 通过pub.php向频道发送信息，可以通过浏览器进行
